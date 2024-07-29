@@ -1,4 +1,4 @@
-# -Interconnected-Digital-Clock-and-Calendar-System-VS-code-ARM-
+# Interconnected-Digital-Clock-and-Calendar-System-VS-code-ARM-
 Design of a system where two microcontrollers (MCU1 and MCU2) with identical components and functionality can control each other's LCD display to set and display time, date, and operate a stopwatch using UART communication. 
 
 This repository presents an educational project where two microcontrollers (MCU1 and MCU2) each feature a digital clock, stopwatch, and calendar. Each microcontroller has a set of buttons that can control the other's LCD display and functionality via UART communication. This project demonstrates basic embedded systems concepts, including UART communication and interfacing with LCDs.
